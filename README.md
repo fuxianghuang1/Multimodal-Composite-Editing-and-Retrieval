@@ -267,7 +267,7 @@ If you find this repository is useful for you, please cite our paper:
 *Hongyi Zhu, Jia-Hong Huang, Stevan Rudinac, Evangelos Kanoulas*  
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3652583.3658032)] [[GitHub](https://github.com/s04240051/Multimodal-Conversational-Retrieval-System)]
 
-**[arXiv, 2024] Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives**  
+**[ACM MM, 2024] Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives**  
 *Zhangchi Feng, Richong Zhang, Zhijie Nie*  
 [[Paper](https://arxiv.org/abs/2404.11317)] [[GitHub](https://github.com/BUAADreamer/SPN4CIR)]
 
