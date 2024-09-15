@@ -4,8 +4,6 @@
 
 [NEWS.20240909] **The related survey [paper](http://arxiv.org/abs/2409.05405) has been released.**
 
-[NOTE] **If you have any questions, please don't hesitate to contact [Suyan Li](mailto:suyanli220@gmail.com), [Fuxiang Huang](mailto:fxhuang1995@gmail.com), and [Lei Zhang](mailto:leizhang@cqu.edu.cn).** 
-
 If you find this repository is useful for you, please cite our paper:
 ```
 @misc{li2024survey,
@@ -564,3 +562,6 @@ If you find this repository is useful for you, please cite our paper:
 | Sydney_IV                       | RS Images, Audio Captions         | 613 images, 3K audio descriptions        | [Link](https://github.com/201528014227051/RSICD_optimal)                                           |
 | UCM_IV                          | Images, Audio Captions            | 2K images, 10K audio descriptions        | [Link](https://github.com/201528014227051/RSICD_optimal)                                           |
 | RSICD_IV                        | Image, Audio Captions             | 11K images, 55K audio descriptions       | [Link](https://github.com/201528014227051/RSICD_optimal)                                           |
+
+
+[NOTE] **If you have any questions, please don't hesitate to contact [Suyan Li](mailto:suyanli220@gmail.com), [Fuxiang Huang](mailto:fxhuang1995@gmail.com), and [Lei Zhang](mailto:leizhang@cqu.edu.cn).** 
