@@ -4,7 +4,7 @@
 
 [NEWS.20240909] **The related survey [paper](http://arxiv.org/abs/2409.05405) has been released.**
 
-[NOTE] **If you have any questions, please don't hesitate to contact [Suyan Li](suyanli220@gmail.com), [Fuxiang Huang](fxhuang1995@gmail.com), and [Lei Zhang](leizhang@cqu.edu.cn).** 
+[NOTE] **If you have any questions, please don't hesitate to contact [Suyan Li](mailto:suyanli220@gmail.com), [Fuxiang Huang](mailto:fxhuang1995@gmail.com), and [Lei Zhang](mailto:leizhang@cqu.edu.cn).** 
 
 If you find this repository is useful for you, please cite our paper:
 ```
