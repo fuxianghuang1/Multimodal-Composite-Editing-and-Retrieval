@@ -115,12 +115,6 @@ If you find this repository is useful for you, please cite our paper:
 *Ming Tao, Bing-Kun Bao, Hao Tang, Fei Wu, Longhui Wei, Qi Tian*  
 [[Paper](https://arxiv.org/pdf/2206.01160)] [[GitHub](https://github.com/tobran/DE-Net)]
 
-
-
-
-
-
-
 **[ACM MM, 2022] LS-GAN: Iterative Language-Based Image Manipulation via Long and Short Term Consistency Reasoning**  
 *Gaoxiang Cong, Liang Li, Zhenhuan Liu, Yunbin Tu, Weijun Qin, Shenyuan Zhang, Chengang Yan, Wenyu Wang, Bin Jiang*  
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3503161.3548206)]
@@ -165,10 +159,6 @@ If you find this repository is useful for you, please cite our paper:
 *Chenlin Meng, Yutong He, Yang Song, Jiaming Song, Jiajun Wu, Jun-Yan Zhu, Stefano Ermon*  
 [[Paper](https://openreview.net/pdf?id=aBsCjcPu_tE)] [[GitHub](https://github.com/ermongroup/SDEdit)] [[Website](https://sde-image-editing.github.io/)]
 
-
-
-
-
 **[CVPR, 2021] TediGAN: Text-guided diverse face image generation and manipulation**  
 *Weihao Xia, Yujiu Yang, Jing-Hao Xue, Baoyuan Wu*  
 [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xia_TediGAN_Text-Guided_Diverse_Face_Image_Generation_and_Manipulation_CVPR_2021_paper.pdf)] [[GitHub](https://github.com/IIGROUP/TediGAN)]
@@ -201,9 +191,6 @@ If you find this repository is useful for you, please cite our paper:
 *Jing Shi, Ning Xu, Yihang Xu, Trung Bui, Franck Dernoncourt, Chenliang Xu*  
 [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_Learning_by_Planning_Language-Guided_Global_Image_Editing_CVPR_2021_paper.pdf)] [[GitHub](https://jshi31.github.io/T2ONet/)]
 
-
-
-
 **[ACM MM, 2020] IR-GAN: Image Manipulation with Linguistic Instruction by Increment Reasoning**  
 *Zhenhuan Liu, Jincan Deng, Liang Li, Shaofei Cai, Qianqian Xu, Shuhui Wang, Qingming Huang*  
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3394171.3413777)] [[GitHub](https://github.com/Victarry/IR-GAN-Code)]
@@ -223,8 +210,6 @@ If you find this repository is useful for you, please cite our paper:
 **[ECCV, 2020] Open-Edit: Open-Domain Image Manipulation with Open-Vocabulary Instructions**  
 *Xihui Liu, Zhe Lin, Jianming Zhang, Handong Zhao, Quan Tran, Xiaogang Wang, Hongsheng Li*  
 [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560086.pdf)] [[GitHub](https://github.com/xh-liu/Open-Edit)]
-
-
 
 **[ICASSP, 2019] Bilinear Representation for Language-based Image Editing Using Conditional Generative Adversarial Networks**  
 *Xiaofeng Mao, Yuefeng Chen, Yuhong Li, Tao Xiong, Yuan He, Hui Xue*  
@@ -281,7 +266,7 @@ If you find this repository is useful for you, please cite our paper:
 *Yucheng Suo, Fan Ma, Linchao Zhu, Yi Yang*  
 [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Suo_Knowledge-Enhanced_Dual-stream_Zero-shot_Composed_Image_Retrieval_CVPR_2024_paper.pdf)]
 
-#2023
+# 2023
 
 **[CVPR, 2023] Fame-vil: Multi-tasking vision-language model for heterogeneous fashion tasks**  
 *Xiao Han, Xiatian Zhu, Licheng Yu, Li Zhang, Yi-Zhe Song, Tao Xiang*  
@@ -308,7 +293,7 @@ If you find this repository is useful for you, please cite our paper:
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3617597)] [[GitHub](https://github.com/ABaldrati/CLIP4Cir)]
 
 
-#2022
+# 2022
 
 **[IEEE, 2022] Adversarial and isotropic gradient augmentation for image retrieval with text feedback**  
 *Fuxiang Huang, Lei Zhang, Yuhang Zhou, Xinbo Gao*  
@@ -335,11 +320,11 @@ If you find this repository is useful for you, please cite our paper:
 *Surgan Jandial, Pinkesh Badjatiya, Pranit Chawla, Ayush Chopra, Mausoom Sarkar, Balaji Krishnamurthy*  
 [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Jandial_SAC_Semantic_Attention_Composition_for_Text-Conditioned_Image_Retrieval_WACV_2022_paper.pdf)]
 
-**[ACM, 2022] AMC: Adaptive Multi-expert Collaborative Network for Text-guided Image Retrieval**  
+**[ACM TOMCCAP, 2022] AMC: Adaptive Multi-expert Collaborative Network for Text-guided Image Retrieval**  
 *Hongguang Zhu,  Yunchao Wei, Yao Zhao, Chunjie Zhang, Shujuan Huang*  
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3584703)][[GitHub](KevinLight831/AMC: AMC: Adaptive Multi-expert Collaborative Network for Text-guided Image Retrieval (github.com))]
 
-#2021
+# 2021
 
 **[SIGIR, 2021] Comprehensive linguistic-visual composition network for image retrieval**  
 *Haokun Wen, Xuemeng Song, Xin Yang, Yibing Zhan, Liqiang Nie*  
@@ -367,7 +352,7 @@ If you find this repository is useful for you, please cite our paper:
 
 
 
-#2020
+# 2020
 
 **[ECCV, 2020] Learning joint visual semantic matching embeddings for language-guided retrieval**  
 *Yanbei Chen, Loris Bazzani*  
@@ -385,7 +370,7 @@ If you find this repository is useful for you, please cite our paper:
 *Eric Dodds, Jack Culpepper, Simao Herdade, Yang Zhang, Kofi Boakye*  
 [[Paper](https://arxiv.org/pdf/2007.00145)] [[GitHub](https://github.com/yahoo/maaf)]
 
-#2018
+# 2018
 
 **[CVPR, 2018] Language-based image editing with recurrent attentive models**  
 *Jianbo Chen, Yelong Shen, Jianfeng Gao, Jingjing Liu, Xiaodong Liu*  
@@ -395,7 +380,7 @@ If you find this repository is useful for you, please cite our paper:
 *Xiaoxiao Guo, Hui Wu, Yu Cheng, Steven Rennie, Gerald Tesauro, Rogerio Feris*  
 [[Paper](https://proceedings.neurips.cc/paper_files/paper/2018/file/a01a0380ca3c61428c26a231f0e49a09-Paper.pdf)] [[GitHub](https://github.com/XiaoxiaoGuo/fashion-retrieval)]
 
-#2017
+# 2017
 
 **[ICCV, 2017] Automatic spatially-aware fashion concept discovery**  
 *Xintong Han, Zuxuan Wu, Phoenix X Huang, Xiao Zhang, Menglong Zhu, Yuan Li, Yang Zhao, Larry S Davis*  
@@ -433,13 +418,13 @@ If you find this repository is useful for you, please cite our paper:
 *Yue Ruan, Han-Hung Lee, Yiming Zhang, Ke Zhang, Angel X Chang*  
 [[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Ruan_TriCoLo_Trimodal_Contrastive_Loss_for_Text_to_Shape_Retrieval_WACV_2024_paper.html)] [[GitHub](https://github.com/3dlg-hcvc/tricolo)]
 
-#2023
+# 2023
 
 **[CVPR, 2023] SceneTrilogy: On Human Scene-Sketch and its Complementarity with Photo and Text**  
 *Pinaki Nath Chowdhury, Ayan Kumar Bhunia, Aneeshan Sain, Subhadeep Koley, Tao Xiang, Yi-Zhe Song*  
 [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chowdhury_SceneTrilogy_On_Human_Scene-Sketch_and_Its_Complementarity_With_Photo_and_CVPR_2023_paper.pdf)]
 
-#2022
+# 2022
 
 **[ECCV, 2022] A sketch is worth a thousand words: Image retrieval with text and sketch**  
 *Patsorn Sangkloy, Wittawat Jitkrittum, Diyi Yang, James Hays*  
@@ -453,7 +438,7 @@ If you find this repository is useful for you, please cite our paper:
 *Rui Yang, Shuang Wang, Yingzhi Sun, Huan Zhang, Yu Liao, Yu Gu, Biao Hou, Licheng Jiao*  
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9847567)]
 
-#2021
+# 2021
 
 **[CVPR, 2021] Connecting what to say with where to look by modeling human attention traces**  
 *Zihang Meng, Licheng Yu, Ning Zhang, Tamara L Berg, Babak Damavandi, Vikas Singh, Amy Bearman*  
@@ -469,7 +454,7 @@ If you find this repository is useful for you, please cite our paper:
 *Golsa Tahmasebzadeh, Sherzod Hakimov, Eric Müller-Budack, Ralph Ewerth*  
 [[Paper](https://arxiv.org/abs/2007.06390)] [[GitHub](https://github.com/cleopatra-itn/multimodal-news-retrieval)]
 
-#2019
+# 2019
 
 **[Multimedia Tools and Applications, 2019] Efficient and interactive spatial-semantic image retrieval**  
 *Ryosuke Furuta, Naoto Inoue, Toshihiko Yamasaki*  
@@ -479,7 +464,7 @@ If you find this repository is useful for you, please cite our paper:
 *Luca Rossetto, Ralph Gasser, Heiko Schuldt*  
 [[Paper](https://arxiv.org/abs/1909.01477)]
 
-#2017
+# 2017
 
 **[IJCNLP, 2017] Draw and tell: Multimodal descriptions outperform verbal-or sketch-only descriptions in an image retrieval task**  
 *Ting Han, David Schlangen*  
@@ -493,13 +478,13 @@ If you find this repository is useful for you, please cite our paper:
 *Ryota Hinami, Yusuke Matsui, Shin'ichi Satoh*  
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3123266.3123312)]
 
-#2014
+# 2014
 
 **[Cancer Informatics, 2014] Medical image retrieval: a multimodal approach**  
 *Yu Cao, Shawn Steffey, Jianbiao He, Degui Xiao, Cui Tao, Ping Chen, Henning Müller*  
 [[Paper](https://journals.sagepub.com/doi/pdf/10.4137/CIN.S14053)]
 
-#2013
+# 2013
 
 **[10th Conference on Open Research Areas in Information Retrieval, 2013] NovaMedSearch: a multimodal search engine for medical case-based retrieval**  
 *André Mourão, Flávio Martins*  
@@ -509,7 +494,7 @@ If you find this repository is useful for you, please cite our paper:
 *Ehtesham Hassan, Santanu Chaudhury, M. Gopal*  
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6628804)]
 
-#2003
+# 2003
 
 **[EURASIP, 2003] Semantic indexing of multimedia content using visual, audio, and text cues**  
 *WH Adams, Giridharan Iyengar, Ching-Yung Lin, Milind Ramesh Naphade, Chalapathy Neti, Harriet J Nock, John R Smith*  
