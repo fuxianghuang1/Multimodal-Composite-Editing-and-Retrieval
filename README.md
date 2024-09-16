@@ -335,6 +335,10 @@ If you find this repository is useful for you, please cite our paper:
 *Surgan Jandial, Pinkesh Badjatiya, Pranit Chawla, Ayush Chopra, Mausoom Sarkar, Balaji Krishnamurthy*  
 [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Jandial_SAC_Semantic_Attention_Composition_for_Text-Conditioned_Image_Retrieval_WACV_2022_paper.pdf)]
 
+**[ACM, 2022] AMC: Adaptive Multi-expert Collaborative Network for Text-guided Image Retrieval**  
+*Hongguang Zhu,  Yunchao Wei, Yao Zhao, Chunjie Zhang, Shujuan Huang*  
+[[Paper](https://dl.acm.org/doi/pdf/10.1145/3584703)][[GitHub](KevinLight831/AMC: AMC: Adaptive Multi-expert Collaborative Network for Text-guided Image Retrieval (github.com))]
+
 #2021
 
 **[SIGIR, 2021] Comprehensive linguistic-visual composition network for image retrieval**  
