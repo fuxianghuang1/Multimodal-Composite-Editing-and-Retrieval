@@ -29,7 +29,7 @@ If you find this repository is useful for you, please cite our paper:
   - [Other mutimodal composite retrieval](#datasets-for-other-mutimodal-composite-retrieval)
 
 - [Experimental Results](#experimental-results)
-  - 
+  
   
 # Papers and related codes
 ## Image-text composite editing
