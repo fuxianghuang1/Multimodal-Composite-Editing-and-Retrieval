@@ -564,4 +564,4 @@ If you find this repository is useful for you, please cite our paper:
 | RSICD_IV                        | Image, Audio Captions             | 11K images, 55K audio descriptions       | [Link](https://github.com/201528014227051/RSICD_optimal)                                           |
 
 
-[NOTE] **If you have any questions, please don't hesitate to contact [Fuxiang Huang](mailto:fxhuang1995@gmail.com), [Suyan Li](mailto:suyanli220@gmail.com), and [Lei Zhang](mailto:leizhang@cqu.edu.cn).** 
+[NOTE] **If you have any questions, please don't hesitate to contact [us](mailto:fxhuang1995@gmail.com).** 
