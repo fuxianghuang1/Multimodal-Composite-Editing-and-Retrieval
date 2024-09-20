@@ -35,7 +35,7 @@ If you find this repository is useful for you, please cite our paper:
 ## Image-text composite editing
 
 ### 2024
-**[SIGIR, 2024] Simple but Effective Raw-Data Level Multimodal Fusion for Composed Image Retrieval**  
+**[ACM SIGIR, 2024] Simple but Effective Raw-Data Level Multimodal Fusion for Composed Image Retrieval**  
 *Haokun Wen, Xuemeng Song, Xiaolin Chen, Yinwei Wei, Liqiang Nie, Tat-Seng Chua*  
 [[Paper](http://dx.doi.org/10.1145/3626772.3657727)]
 
