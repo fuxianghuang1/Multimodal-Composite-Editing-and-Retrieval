@@ -29,6 +29,7 @@ If you find this repository is useful for you, please cite our paper:
   - [Other mutimodal composite retrieval](#datasets-for-other-mutimodal-composite-retrieval)
 
 - [Experimental Results](#experimental-results)
+  - 
   
 # Papers and related codes
 ## Image-text composite editing
@@ -566,7 +567,7 @@ If you find this repository is useful for you, please cite our paper:
 
 
 # Experimental Results
-## Performance comparison on the Fashion-IQ datase((VAL split)
+## Performance comparison on the Fashion-IQ datase(VAL split)
 | **Methods**                    | **Image Encoder** | **Dress R@10** | **Dress R@50** | **Shirt R@10** | **Shirt R@50** | **Toptee R@10** | **Toptee R@50** | **Average R@10** | **Average R@50** | **Avg.** |
 |--------------------------------|--------------------|----------------|----------------|----------------|----------------|-----------------|-----------------|------------------|------------------|----------|
 | [ARTEMIS+LSTM]() | ResNet-18         | 25.23          | 48.64          | 20.35          | 43.67          | 23.36           | 46.97           | 22.98            | 46.43            | 34.70    |
