@@ -637,18 +637,18 @@ If you find this repository is useful for you, please cite our paper:
 | MAAF <!--\cite{AMC}-->                      | ResNet-50  | 23.80 | 48.60 | 21.30 | 44.20 | 27.90 | 53.60 | 24.30 | 48.80 | 36.60 |
 | Leveraging <!--\cite{Leveraging}-->     | ResNet-50   | 19.33 | 43.52 | 14.47 | 35.47 | 19.73 | 44.56 | 17.84 | 41.18 | 29.51 |
 | MCR <!--\cite{pang2022MCR}-->           | ResNet-50   | 26.20 | 51.20 | 22.40 | 46.01 | 29.70 | 56.40 | 26.10 | 51.20 | 38.65 |
-| MCEM (\(L—_CE\)) <!--\cite{MCEM}-->     | ResNet-50   | 30.07 | 56.13 | 23.90 | 47.60 | 30.90 | 57.52 | 28.29 | 53.75 | 41.02 |
-| MCEM (\(L—_FCE\)) <!--\cite{MCEM}-->    | ResNet-50   | 31.50 | 58.41 | 25.01 | 49.73 | 32.77 | 61.02 | 29.76 | 56.39 | 43.07 |
-| MCEM (\(L—_AFCE\)) <!--\cite{MCEM}-->   | ResNet-50   | 33.23 | 59.16 | 26.15 | 50.87 | 33.83 | 61.40 | 31.07 | 57.14 | 44.11 |
+| MCEM (\(L_CE\)) <!--\cite{MCEM}-->     | ResNet-50   | 30.07 | 56.13 | 23.90 | 47.60 | 30.90 | 57.52 | 28.29 | 53.75 | 41.02 |
+| MCEM (\(L_FCE\)) <!--\cite{MCEM}-->    | ResNet-50   | 31.50 | 58.41 | 25.01 | 49.73 | 32.77 | 61.02 | 29.76 | 56.39 | 43.07 |
+| MCEM (\(L_AFCE\)) <!--\cite{MCEM}-->   | ResNet-50   | 33.23 | 59.16 | 26.15 | 50.87 | 33.83 | 61.40 | 31.07 | 57.14 | 44.11 |
 | AlRet <!--\cite{xu2024-AlRet}-->        | ResNet-50   | 27.34 | 53.42 | 21.30 | 43.08 | 29.07 | 54.21 | 25.86 | 50.17 | 38.02 |
-| MCEM (\(L—_AFCE\) w/ BERT) <!--\cite{MCEM}--> | ResNet-50   | 32.11 | 59.21 | 27.28 | 52.01 | 33.96 | 62.30 | 31.12 | 57.84 | 44.48 |
+| MCEM (\(L_AFCE\) w/ BERT) <!--\cite{MCEM}--> | ResNet-50   | 32.11 | 59.21 | 27.28 | 52.01 | 33.96 | 62.30 | 31.12 | 57.84 | 44.48 |
 | JVSM <!--\cite{chen2020JVSM}-->         | MobileNet-v1 | 10.70 | 25.90 | 12.00 | 27.10 | 13.00 | 26.90 | 11.90 | 26.63 | 19.27 |
 | FashionIQ (Dialog Turn 1) <!--\cite{wu2020fashioniq}--> | EfficientNet-b | 12.45 | 35.21 | 11.05 | 28.99 | 11.24 | 30.45 | 11.58 | 31.55 | 21.57 |
 | FashionIQ (Dialog Turn 5) <!--\cite{wu2020fashioniq}--> | EfficientNet-b | 41.35 | 73.63 | 33.91 | 63.42 | 33.52 | 63.85 | 36.26 | 66.97 | 51.61 |
 | AACL <!--\cite{tian2022AACL}-->         | Swin        | 29.89 | 55.85 | 24.82 | 48.85 | 30.88 | 56.85 | 28.53 | 53.85 | 41.19 |
 | ComqueryFormer <!--\cite{ComqueryFormer}--> | Swin      | 28.85 | 55.38 | 25.64 | 50.22 | 33.61 | 60.48 | 29.37 | 55.36 | 42.36 |
 | AlRet <!--\cite{xu2024-AlRet}-->        | CLIP        | 35.75 | 60.56 | 37.02 | 60.55 | 42.25 | 67.52 | 38.30 | 62.82 | 50.56 |
-| MCEM (\(L—_AFCE\)) <!--\cite{MCEM}-->   | CLIP        | 33.98 | 59.96 | 40.15 | 62.76 | 43.75 | 67.70 | 39.29 | 63.47 | 51.38 |
+| MCEM (\(L_AFCE\)) <!--\cite{MCEM}-->   | CLIP        | 33.98 | 59.96 | 40.15 | 62.76 | 43.75 | 67.70 | 39.29 | 63.47 | 51.38 |
 | SPN (TG-CIR) <!--\cite{feng2024data_generation-SPN}--> | CLIP | 36.84 | 60.83 | 41.85 | 63.89 | 45.59 | 68.79 | 41.43 | 64.50 | 52.97 |
 | SPN (CLIP4CIR) <!--\cite{feng2024data_generation-SPN}--> | CLIP | 38.82 | 62.92 | 45.83 | 66.44 | 48.80 | 71.29 | 44.48 | 66.88 | 55.68 |
 | PL4CIR <!--\cite{zhao2022-PL4CIR_PLHMQ-twostage}--> | CLIP-B | 29.00 | 53.94 | 35.43 | 58.88 | 39.16 | 64.56 | 34.53 | 59.13 | 46.83 |
@@ -782,9 +782,9 @@ If you find this repository is useful for you, please cite our paper:
 | Uncertainty <!--\cite{chen2024uncertainty}-->       | ResNet-50  | 18.41 | 53.63 | 79.84 | 50.63 |
 | FashionVLP <!--\cite{Goenka_2022_FashionVLP}-->     | ResNet-50  | -     | 49.08 | 77.32 | -     |
 | DWC <!--\cite{huang2023-DWC}-->                      | ResNet-50  | 18.94 | 55.55 | 80.19 | 51.56 |
-| MCEM(\(L—_CE\)) <!--\cite{MCEM}-->                   | ResNet-50  | 15.17 | 49.33 | 73.78 | 46.09 |
-| MCEM(\(L—_FCE\)) <!--\cite{MCEM}-->                  | ResNet-50  | 18.13 | 54.31 | 78.65 | 50.36 |
-| MCEM(\(L—_AFCE\)) <!--\cite{MCEM}-->                 | ResNet-50  | 19.10 | 55.37 | 79.57 | 51.35 |
+| MCEM(\(L_CE\)) <!--\cite{MCEM}-->                   | ResNet-50  | 15.17 | 49.33 | 73.78 | 46.09 |
+| MCEM(\(L_FCE\)) <!--\cite{MCEM}-->                  | ResNet-50  | 18.13 | 54.31 | 78.65 | 50.36 |
+| MCEM(\(L_AFCE\)) <!--\cite{MCEM}-->                 | ResNet-50  | 19.10 | 55.37 | 79.57 | 51.35 |
 | AlRet <!--\cite{xu2024-AlRet}-->                     | ResNet-50  | 18.13 | 53.98 | 78.81 | 50.31 |
 | RTIC <!--\cite{shin2021RTIC}-->                      | ResNet-50  | 43.66 | 72.11 | -     | -     |
 | RTIC-GCN <!--\cite{shin2021RTIC}-->                  | ResNet-50  | 43.38 | 72.09 | -     | -     |
@@ -802,9 +802,9 @@ If you find this repository is useful for you, please cite our paper:
 | **Methods**                    | **Image Encoder** | **R@1** | **R@5** | **R@10** | **R@50** |
 |--------------------------------|-------------------|---------|---------|----------|----------|
 | ComposeAE <!--\cite{shin2021RTIC}-->                | ResNet-18  | -     | 29.60 | 59.82 | -     |
-| MCEM(\(L—_CE\)) <!--\cite{MCEM}-->                   | ResNet-18  | 14.26 | 40.46 | 55.61 | 85.66 |
-| MCEM(\(L—_FCE\)) <!--\cite{MCEM}-->                  | ResNet-18  | 16.12 | 43.92 | 58.87 | 86.85 |
-| MCEM(\(L—_AFCE\)) <!--\cite{MCEM}-->                 | ResNet-18  | 17.48 | 46.13 | 62.17 | 88.91 |
+| MCEM(\(L_CE\)) <!--\cite{MCEM}-->                   | ResNet-18  | 14.26 | 40.46 | 55.61 | 85.66 |
+| MCEM(\(L_FCE\)) <!--\cite{MCEM}-->                  | ResNet-18  | 16.12 | 43.92 | 58.87 | 86.85 |
+| MCEM(\(L_AFCE\)) <!--\cite{MCEM}-->                 | ResNet-18  | 17.48 | 46.13 | 62.17 | 88.91 |
 | Ranking-aware <!--\cite{chen2023ranking-aware}-->    | ResNet-50  | 32.24 | 66.63 | 79.23 | 96.43 |
 | SAC w/BERT <!--\cite{jandial2021SAC}-->              | ResNet-50  | -     | 19.56 | 45.24 | -     |
 | SAC w/Random Emb. <!--\cite{jandial2021SAC}-->       | ResNet-50  | -     | 20.34 | 44.94 | -     |
@@ -818,7 +818,7 @@ If you find this repository is useful for you, please cite our paper:
 | SPN(TG-CIR) <!--\cite{feng2024data_generation-SPN}-->      | CLIP       | 47.28 | 79.13 | 87.98 | 97.54 |
 | SPN(CLIP4CIR) <!--\cite{feng2024data_generation-SPN}-->    | CLIP       | 45.33 | 78.07 | 87.61 | 98.17 |
 | Combiner <!--\cite{baldrati2022combiner}-->                 | CLIP       | 33.59 | 65.35 | 77.35 | 95.21 |
-| MCEM(\(L—_AFCE\)) <!--\cite{MCEM}-->                        | CLIP       | 39.80 | 74.24 | 85.71 | 97.23 |
+| MCEM(\(L_AFCE\)) <!--\cite{MCEM}-->                        | CLIP       | 39.80 | 74.24 | 85.71 | 97.23 |
 | TG-CIR <!--\cite{Wen_2023-TG-CIR}-->                        | CLIP-B     | 45.25 | 78.29 | 87.16 | 97.30 |
 | CIReVL <!--\cite{karthik2024-CIReVL}-->                     | CLIP-B     | 23.94 | 52.51 | 66.00 | 86.95 |
 | SEARLE-OTI <!--\cite{Baldrati2023SEARLE}-->                 | CLIP-B     | 24.27 | 53.25 | 66.10 | 88.84 |
