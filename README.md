@@ -377,6 +377,11 @@ If you find this repository is useful for you, please cite our paper:
 *Feifei Zhang, Ming Yan, Ji Zhang, Changsheng Xu*  
 [[Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548126)]
 
+**[ACM SIGIR, 2022] Progressive learning for image retrieval with hybrid-modality queries**  
+*Yida Zhao, Yuqing Song, Qin Jin*  
+[[Paper](https://dl.acm.org/doi/abs/10.1145/3477495.3532047)]
+
+
 ### 2021
 
 **[ACM SIGIR, 2021] Comprehensive linguistic-visual composition network for image retrieval**  
@@ -682,9 +687,9 @@ If you find this repository is useful for you, please cite our paper:
 | AlRet [[Paper]([https://ieeexplore.ieee.org/document/XXXXXXX](https://ieeexplore.ieee.org/abstract/document/10568424/))]  <!--\cite{xu2024-AlRet}-->           | CLIP-RN50  | 40.23 | 65.89 | 47.15 | 70.88 | 51.05 | 75.78 | 46.10 | 70.80 | 58.50 |
 | Combiner <!--\cite{baldrati2022combiner}--> | CLIP-RN50  | 31.63 | 56.67 | 36.36 | 58.00 | 38.19 | 62.42 | 35.39 | 59.03 | 47.21 |
 | DQU-CIR <!--\cite{Wen_2024-DQU-CIR}-->     | CLIP-H     | 57.63 | 78.56 | 62.14 | 80.38 | 66.15 | 85.73 | 61.97 | 81.56 | 71.77 |
-| PL4CIR <!--\cite{zhao2022-PL4CIR_PLHMQ-twostage}--> | CLIP-L     | 38.18 | 64.50 | 48.63 | 71.54 | 52.32 | 76.90 | 46.37 | 70.98 | 58.68 |
+| PL4CIR [[Paper](https://dl.acm.org/doi/abs/10.1145/3477495.3532047)]<!--\cite{zhao2022-PL4CIR_PLHMQ-twostage}--> | CLIP-L     | 38.18 | 64.50 | 48.63 | 71.54 | 52.32 | 76.90 | 46.37 | 70.98 | 58.68 |
 | TG-CIR <!--\cite{Wen_2023-TG-CIR}-->       | CLIP-B     | 45.22 | 69.66 | 52.60 | 72.52 | 56.14 | 77.10 | 51.32 | 73.09 | 62.21 |
-| PL4CIR <!--\cite{zhao2022-PL4CIR_PLHMQ-twostage}--> | CLIP-B     | 33.22 | 59.99 | 46.17 | 68.79 | 46.46 | 73.84 | 41.98 | 67.54 | 54.76 |
+| PL4CIR [[Paper](https://dl.acm.org/doi/abs/10.1145/3477495.3532047)]<!--\cite{zhao2022-PL4CIR_PLHMQ-twostage}--> | CLIP-B     | 33.22 | 59.99 | 46.17 | 68.79 | 46.46 | 73.84 | 41.98 | 67.54 | 54.76 |
 
 
 ## Performance comparison on the Fashion-IQ dataset(original split)
@@ -709,7 +714,7 @@ If you find this repository is useful for you, please cite our paper:
 | MCEM (\(L_AFCE\)) <!--\cite{MCEM}-->   | CLIP        | 33.98 | 59.96 | 40.15 | 62.76 | 43.75 | 67.70 | 39.29 | 63.47 | 51.38 |
 | SPN (TG-CIR) <!--\cite{feng2024data_generation-SPN}--> | CLIP | 36.84 | 60.83 | 41.85 | 63.89 | 45.59 | 68.79 | 41.43 | 64.50 | 52.97 |
 | SPN (CLIP4CIR) <!--\cite{feng2024data_generation-SPN}--> | CLIP | 38.82 | 62.92 | 45.83 | 66.44 | 48.80 | 71.29 | 44.48 | 66.88 | 55.68 |
-| PL4CIR <!--\cite{zhao2022-PL4CIR_PLHMQ-twostage}--> | CLIP-B | 29.00 | 53.94 | 35.43 | 58.88 | 39.16 | 64.56 | 34.53 | 59.13 | 46.83 |
+| PL4CIR [[Paper](https://dl.acm.org/doi/abs/10.1145/3477495.3532047)]<!--\cite{zhao2022-PL4CIR_PLHMQ-twostage}--> | CLIP-B | 29.00 | 53.94 | 35.43 | 58.88 | 39.16 | 64.56 | 34.53 | 59.13 | 46.83 |
 | FAME-ViL <!--\cite{han2023FAMEvil}-->          | CLIP-B | 42.19 | 67.38 | 47.64 | 68.79 | 50.69 | 73.07 | 46.84 | 69.75 | 58.30 |
 | PALAVRA <!--\cite{cohen2022-PALAVRA}-->        | CLIP-B | 17.25 | 35.94 | 21.49 | 37.05 | 20.55 | 38.76 | 19.76 | 37.25 | 28.51 |
 | MagicLens-B <!--\cite{zhang2024magiclens}-->  | CLIP-B | 21.50 | 41.30 | 27.30 | 48.80 | 30.20 | 52.30 | 26.30 | 47.40 | 36.85 |
@@ -717,7 +722,7 @@ If you find this repository is useful for you, please cite our paper:
 | CIReVL <!--\cite{karthik2024-CIReVL}-->        | CLIP-B | 25.29 | 46.36 | 28.36 | 47.84 | 31.21 | 53.85 | 28.29 | 49.35 | 38.82 |
 | SEARLE-OTI <!--\cite{Baldrati2023SEARLE}-->    | CLIP-B | 17.85 | 39.91 | 25.37 | 41.32 | 24.12 | 45.79 | 22.44 | 42.34 | 32.39 |
 | PLI <!--\cite{chen2023-PLI}-->                | CLIP-B | 25.71 | 47.81 | 33.36 | 53.47 | 34.87 | 58.44 | 31.31 | 53.24 | 42.28 |
-| PL4CIR <!--\cite{zhao2022-PL4CIR_PLHMQ-twostage}--> | CLIP-L | 33.60 | 58.90 | 39.45 | 61.78 | 43.96 | 68.33 | 39.02 | 63.00 | 51.01 |
+| PL4CIR [[Paper](https://dl.acm.org/doi/abs/10.1145/3477495.3532047)]<!--\cite{zhao2022-PL4CIR_PLHMQ-twostage}--> | CLIP-L | 33.60 | 58.90 | 39.45 | 61.78 | 43.96 | 68.33 | 39.02 | 63.00 | 51.01 |
 | SEARLE-XL <!--\cite{Baldrati2023SEARLE}-->     | CLIP-L | 20.48 | 43.13 | 26.89 | 45.58 | 29.32 | 49.97 | 25.56 | 46.23 | 35.90 |
 | SEARLE-XL-OTI <!--\cite{Baldrati2023SEARLE}--> | CLIP-L | 21.57 | 44.47 | 30.37 | 47.49 | 30.90 | 51.76 | 27.61 | 47.90 | 37.76 |
 | Context-I2W <!--\cite{tang2023contexti2w}-->  | CLIP-L | 23.10 | 45.30 | 29.70 | 48.60 | 30.60 | 52.90 | 27.80 | 48.90 | 38.35 |
@@ -851,8 +856,8 @@ If you find this repository is useful for you, please cite our paper:
 | ProVLA <!--\cite{Hu_2023_ICCV-ProVLA}-->             | Swin       | 19.20 | 56.20 | 73.30 | 49.57 |
 | CRN [[Paper](https://doi.org/10.1109/TIP.2023.3299791)]<!--\cite{2023-CRN}-->                           | Swin-L     | 18.92 | 54.55 | 80.04 | 51.17 |
 | AlRet [[Paper]([https://ieeexplore.ieee.org/document/XXXXXXX](https://ieeexplore.ieee.org/abstract/document/10568424/))]  <!--\cite{xu2024-AlRet}-->                     | CLIP       | 21.02 | 55.72 | 80.77 | 52.50 |
-| PL4CIR <!--\cite{zhao2022-PL4CIR_PLHMQ-twostage}-->  | CLIP-L     | 22.88 | 58.83 | 84.16 | 55.29 |
-| PL4CIR <!--\cite{zhao2022-PL4CIR_PLHMQ-twostage}-->  | CLIP-B     | 19.53 | 55.65 | 80.58 | 51.92 |
+| PL4CIR [[Paper](https://dl.acm.org/doi/abs/10.1145/3477495.3532047)]<!--\cite{zhao2022-PL4CIR_PLHMQ-twostage}-->  | CLIP-L     | 22.88 | 58.83 | 84.16 | 55.29 |
+| PL4CIR [[Paper](https://dl.acm.org/doi/abs/10.1145/3477495.3532047)]<!--\cite{zhao2022-PL4CIR_PLHMQ-twostage}-->  | CLIP-B     | 19.53 | 55.65 | 80.58 | 51.92 |
 | TG-CIR <!--\cite{Wen_2023-TG-CIR}-->                 | CLIP-B     | 25.89 | 63.20 | 85.07 | 58.05 |
 | DQU-CIR <!--\cite{Wen_2024-DQU-CIR}-->                | CLIP-H     | 31.47 | 69.19 | 88.52 | 63.06 |
 
