@@ -308,11 +308,11 @@ If you find this repository is useful for you, please cite our paper:
 
 ### 2022
 
-**[IEEE, 2022] Adversarial and isotropic gradient augmentation for image retrieval with text feedback**  
+**[IEEE TMM, 2022] Adversarial and isotropic gradient augmentation for image retrieval with text feedback**  
 *Fuxiang Huang, Lei Zhang, Yuhang Zhou, Xinbo Gao*  
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9953564)]
 
-**[TOMM, 2022] Tell, imagine, and search: End-to-end learning for composing text and image to image retrieval**  
+**[ACM TOMM, 2022] Tell, imagine, and search: End-to-end learning for composing text and image to image retrieval**  
 *Feifei Zhang, Mingliang Xu, Changsheng Xu*  
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3478642)]
 
@@ -320,7 +320,7 @@ If you find this repository is useful for you, please cite our paper:
 *Yuxin Tian, Shawn Newsam, Kofi Boakye*  
 [[Paper](https://arxiv.org/pdf/2203.03809)]
 
-**[IEEE, 2022] Heterogeneous feature alignment and fusion in cross-modal augmented space for composed image retrieval**  
+**[IEEE TMM, 2022] Heterogeneous feature alignment and fusion in cross-modal augmented space for composed image retrieval**  
 *Huaxin Pang, Shikui Wei, Gangjian Zhang, Shiyin Zhang, Shuang Qiu, Yao Zhao*  
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475659)]
 
@@ -339,7 +339,7 @@ If you find this repository is useful for you, please cite our paper:
 
 ### 2021
 
-**[SIGIR, 2021] Comprehensive linguistic-visual composition network for image retrieval**  
+**[ACM SIGIR, 2021] Comprehensive linguistic-visual composition network for image retrieval**  
 *Haokun Wen, Xuemeng Song, Xin Yang, Yibing Zhan, Liqiang Nie*  
 [[Paper](https://liqiangnie.github.io/paper/Comprehensive%20Linguistic-Visual%20Composition%20Network%20for%20Image%20Retrieval.pdf)]
 
@@ -347,7 +347,7 @@ If you find this repository is useful for you, please cite our paper:
 *Jongseok Kim, Youngjae Yu, Hoeseong Kim, Gunhee Kim*  
 [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16271/16078)] [[GitHub](https://github.com/ozmig77/dcnet)]
 
-**[CVPRW, 2021] Leveraging Style and Content features for Text Conditioned Image Retrieval**  
+**[CVPR, 2021] Leveraging Style and Content features for Text Conditioned Image Retrieval**  
 *Pranit Chawla, Surgan Jandial, Pinkesh Badjatiya, Ayush Chopra, Mausoom Sarkar, Balaji Krishnamurthy*  
 [[Paper](https://openaccess.thecvf.com/content/CVPR2021W/CVFAD/papers/Chawla_Leveraging_Style_and_Content_Features_for_Text_Conditioned_Image_Retrieval_CVPRW_2021_paper.pdf)]
 
@@ -355,7 +355,7 @@ If you find this repository is useful for you, please cite our paper:
 *Zheyuan Liu, Cristian Rodriguez-Opazo, Damien Teney, Stephen Gould*  
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9710082)] [[GitHub](https://github.com/Cuberick-Orion/CIRPLANT)]
 
-**[SIGIR, 2021] Conversational fashion image retrieval via multiturn natural language feedback**  
+**[ACM SIGIR, 2021] Conversational fashion image retrieval via multiturn natural language feedback**  
 *Yifei Yuan, Wai Lam*  
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462881)] [[GitHub](https://github.com/yfyuan01/MultiturnFashionRetrieval)]
 
@@ -447,7 +447,7 @@ If you find this repository is useful for you, please cite our paper:
 *Guy Tevet, Brian Gordon, Amir Hertz, Amit H Bermano, Daniel Cohen-Or*  
 [[Paper](https://arxiv.org/pdf/2203.08063)] [[GitHub](https://github.com/GuyTevet/MotionCLIP)]
 
-**[IEEE, 2022] Multimodal Fusion Remote Sensing Image–Audio Retrieval**  
+**[IEEE J-STARS, 2022] Multimodal Fusion Remote Sensing Image–Audio Retrieval**  
 *Rui Yang, Shuang Wang, Yingzhi Sun, Huan Zhang, Yu Liao, Yu Gu, Biao Hou, Licheng Jiao*  
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9847567)]
 
@@ -632,7 +632,7 @@ If you find this repository is useful for you, please cite our paper:
 ## Performance comparison on the Fashion-IQ dataset(original split)
 | **Methods**                    | **Image Encoder** | **Dress R@10** | **Dress R@50** | **Shirt R@10** | **Shirt R@50** | **Toptee R@10** | **Toptee R@50** | **Average R@10** | **Average R@50** | **Avg.** |
 |--------------------------------|--------------------|----------------|----------------|----------------|----------------|-----------------|-----------------|------------------|------------------|----------|
-| ComposeAE <!--\cite{anwaar2021composeAE}--> | ResNet-18  | 10.77 | 28.29 | 9.96  | 25.14 | 12.74 | 30.79 | -     | -     | -     |
+| ComposeAE [[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Anwaar_Compositional_Learning_of_Image-Text_Query_for_Image_Retrieval_WACV_2021_paper.pdf)]<!--\cite{anwaar2021composeAE}--> | ResNet-18  | 10.77 | 28.29 | 9.96  | 25.14 | 12.74 | 30.79 | -     | -     | -     |
 | TIRG <!--\cite{vo2018TIRG}-->               | ResNet-18  | 14.87 | 34.66 | 18.26 | 37.89 | 19.08 | 39.62 | 17.40 | 37.39 | 27.40 |
 | MAAF <!--\cite{AMC}-->                      | ResNet-50  | 23.80 | 48.60 | 21.30 | 44.20 | 27.90 | 53.60 | 24.30 | 48.80 | 36.60 |
 | Leveraging <!--\cite{Leveraging}-->     | ResNet-50   | 19.33 | 43.52 | 14.47 | 35.47 | 19.73 | 44.56 | 17.84 | 41.18 | 29.51 |
