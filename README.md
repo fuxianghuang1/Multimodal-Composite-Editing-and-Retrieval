@@ -596,7 +596,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 
 ### 2019
 
-**[Multimedia Tools and Applications, 2019] Efficient and interactive spatial-semantic image retrieval**  
+**[MTA, 2019] Efficient and interactive spatial-semantic image retrieval**  
 *Ryosuke Furuta, Naoto Inoue, Toshihiko Yamasaki*  
 [[Paper](https://link.springer.com/content/pdf/10.1007/s11042-018-7148-1.pdf)]
 
@@ -614,7 +614,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 *Long Mai, Hailin Jin, Zhe Lin, Chen Fang, Jonathan Brandt, Feng Liu*  
 [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Mai_Spatial-Semantic_Image_Search_CVPR_2017_paper.pdf)]
 
-**[ACM Multimedia, 2017] Region-based image retrieval revisited**  
+**[ACM MM, 2017] Region-based image retrieval revisited**  
 *Ryota Hinami, Yusuke Matsui, Shin'ichi Satoh*  
 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3123266.3123312)]
 
@@ -626,11 +626,11 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 
 ### 2013
 
-**[10th Conference on Open Research Areas in Information Retrieval, 2013] NovaMedSearch: a multimodal search engine for medical case-based retrieval**  
+**[SIGIR, 2013] NovaMedSearch: a multimodal search engine for medical case-based retrieval**  
 *André Mourão, Flávio Martins*  
 [[Paper](https://dl.acm.org/doi/pdf/10.5555/2491748.2491798)]
 
-**[12th International Conference on Document Analysis and Recognition, 2013] Multi-modal Information Integration for Document Retrieval**  
+**[ICDAR, 2013] Multi-modal Information Integration for Document Retrieval**  
 *Ehtesham Hassan, Santanu Chaudhury, M. Gopal*  
 [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6628804)]
 
