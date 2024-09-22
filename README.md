@@ -759,7 +759,7 @@ If you find this repository is useful for you, please cite our paper:
 | FashionIQ (Dialog Turn 1) [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Wu_Fashion_IQ_A_New_Dataset_Towards_Retrieving_Images_by_Natural_Language_Feedback_CVPR_2021_paper.html)]<!--\cite{wu2020fashioniq}--> | EfficientNet-b | 12.45 | 35.21 | 11.05 | 28.99 | 11.24 | 30.45 | 11.58 | 31.55 | 21.57 |
 | FashionIQ (Dialog Turn 5) [[Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Wu_Fashion_IQ_A_New_Dataset_Towards_Retrieving_Images_by_Natural_Language_Feedback_CVPR_2021_paper.html)]<!--\cite{wu2020fashioniq}--> | EfficientNet-b | 41.35 | 73.63 | 33.91 | 63.42 | 33.52 | 63.85 | 36.26 | 66.97 | 51.61 |
 | AACL [[Paper](https://arxiv.org/pdf/2203.03809)]<!--\cite{tian2022AACL}-->         | Swin        | 29.89 | 55.85 | 24.82 | 48.85 | 30.88 | 56.85 | 28.53 | 53.85 | 41.19 |
-| ComqueryFormer [[Paper](hhttps://ieeexplore.ieee.org/abstract/document/10012544/)<!--\cite{ComqueryFormer}--> | Swin      | 28.85 | 55.38 | 25.64 | 50.22 | 33.61 | 60.48 | 29.37 | 55.36 | 42.36 |
+| ComqueryFormer [[Paper](hhttps://ieeexplore.ieee.org/abstract/document/10012544/)]<!--\cite{ComqueryFormer}--> | Swin      | 28.85 | 55.38 | 25.64 | 50.22 | 33.61 | 60.48 | 29.37 | 55.36 | 42.36 |
 | AlRet [[Paper]([https://ieeexplore.ieee.org/document/XXXXXXX](https://ieeexplore.ieee.org/abstract/document/10568424/)]  <!--\cite{xu2024-AlRet}-->        | CLIP        | 35.75 | 60.56 | 37.02 | 60.55 | 42.25 | 67.52 | 38.30 | 62.82 | 50.56 |
 | MCEM (\(L_AFCE\)) [[Paper](http://dx.doi.org/10.1109/TIP.2024.3359062)]<!--\cite{MCEM}-->   | CLIP        | 33.98 | 59.96 | 40.15 | 62.76 | 43.75 | 67.70 | 39.29 | 63.47 | 51.38 |
 | SPN (TG-CIR) [[Paper](https://arxiv.org/abs/2404.11317)]<!--\cite{feng2024data_generation-SPN}--> | CLIP | 36.84 | 60.83 | 41.85 | 63.89 | 45.59 | 68.79 | 41.43 | 64.50 | 52.97 |
@@ -831,7 +831,7 @@ If you find this repository is useful for you, please cite our paper:
 | LBF(small) <!--\cite{hosseinzadeh2020-locally-LBF}--> | Faster-RCNN | 16.26 | 46.90 | 71.73 |
 | ProVLA [[Paper](https://openaccess.thecvf.com/content/ICCV2023W/papers/Hu_ProVLA_Compositional_Image_Search_with_Progressive_Vision-Language_Alignment_and_Multimodal_ICCVW_2023_paper.pdf)]<!--\cite{Hu_2023_ICCV-ProVLA}-->        | Swin         | 21.70 | 53.70 | 74.60 |
 | CRN [[Paper](https://doi.org/10.1109/TIP.2023.3299791)]<!--\cite{2023-CRN}-->                      | Swin         | -     | 53.30 | 73.30 |
-| ComqueryFormer [[Paper](hhttps://ieeexplore.ieee.org/abstract/document/10012544/)<!--\cite{ComqueryFormer}-->    | Swin         | -     | 52.20 | 72.20 |
+| ComqueryFormer [[Paper](hhttps://ieeexplore.ieee.org/abstract/document/10012544/)]<!--\cite{ComqueryFormer}-->    | Swin         | -     | 52.20 | 72.20 |
 | AACL [[Paper](https://arxiv.org/pdf/2203.03809)]<!--\cite{tian2022AACL}-->                 | Swin         | 19.64 | 58.85 | 78.86 |
 | CRN [[Paper](https://doi.org/10.1109/TIP.2023.3299791)]<!--\cite{2023-CRN}-->                      | Swin-L       | -     | 53.50 | 74.50 |
 | DQU-CIR [[Paper](http://dx.doi.org/10.1145/3626772.3657727)]<!--\cite{Wen_2024-DQU-CIR}-->          | CLIP-H       | 36.80 | 67.90 | 87.80 |
@@ -925,7 +925,7 @@ If you find this repository is useful for you, please cite our paper:
 | CIRPLANT [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9710082)]<!--\cite{liu2021CIRPLANT}-->                     | ResNet-152 | 15.18 | 43.36 | 60.48 | 87.64 |
 | CIRPLANT w/ OSCAR [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9710082)]<!--\cite{liu2021CIRPLANT}-->             | ResNet-152 | 19.55 | 52.55 | 68.39 | 92.38 |
 | CASE [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/19355)]<!--\cite{levy2023CASE}-->                             | ViT        | 48.00 | 79.11 | 87.25 | 97.57 |
-| ComqueryFormer [[Paper](hhttps://ieeexplore.ieee.org/abstract/document/10012544/)<!--\cite{ComqueryFormer}-->                 | Swin       | 25.76 | 61.76 | 75.90 | 95.13 |
+| ComqueryFormer [[Paper](hhttps://ieeexplore.ieee.org/abstract/document/10012544/)]<!--\cite{ComqueryFormer}-->                 | Swin       | 25.76 | 61.76 | 75.90 | 95.13 |
 | CLIP4CIR [[Paper](https://openaccess.thecvf.com/content/CVPR2022W/ODRUM/html/Baldrati_Conditioned_and_Composed_Image_Retrieval_Combining_and_Partially_Fine-Tuning_CLIP-Based_CVPRW_2022_paper.html)]<!--\cite{baldrati2022-CLIP4CIR}-->                | CLIP       | 38.53 | 69.98 | 81.86 | 95.93 |
 | CLIP4CIR3 [[Paper](https://dl.acm.org/doi/pdf/10.1145/3617597)]<!--\cite{CLIP4CIR3}-->                           | CLIP       | 44.82 | 77.04 | 86.65 | 97.90 |
 | SPN(TG-CIR) [[Paper](https://arxiv.org/abs/2404.11317)]<!--\cite{feng2024data_generation-SPN}-->      | CLIP       | 47.28 | 79.13 | 87.98 | 97.54 |
