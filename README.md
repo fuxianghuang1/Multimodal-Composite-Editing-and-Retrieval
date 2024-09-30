@@ -768,7 +768,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 | [MCEM (\(L_FCE\))](http://dx.doi.org/10.1109/TIP.2024.3359062)<!--\cite{MCEM}-->    | ResNet-50   | 31.50 | 58.41 | 25.01 | 49.73 | 32.77 | 61.02 | 29.76 | 56.39 | 43.07 |
 | [MCEM (\(L_AFCE\))](http://dx.doi.org/10.1109/TIP.2024.3359062)<!--\cite{MCEM}-->   | ResNet-50   | 33.23 | 59.16 | 26.15 | 50.87 | 33.83 | 61.40 | 31.07 | 57.14 | 44.11 |
 | [AlRet](https://ieeexplore.ieee.org/abstract/document/10568424/)  <!--\cite{xu2024-AlRet}-->        | ResNet-50   | 27.34 | 53.42 | 21.30 | 43.08 | 29.07 | 54.21 | 25.86 | 50.17 | 38.02 |
-| MCEM (\(L_AFCE\) w/ BERT)](http://dx.doi.org/10.1109/TIP.2024.3359062)<!--\cite{MCEM}--> | ResNet-50   | 32.11 | 59.21 | 27.28 | 52.01 | 33.96 | 62.30 | 31.12 | 57.84 | 44.48 |
+| [MCEM (\(L_AFCE\) w/ BERT)](http://dx.doi.org/10.1109/TIP.2024.3359062)<!--\cite{MCEM}--> | ResNet-50   | 32.11 | 59.21 | 27.28 | 52.01 | 33.96 | 62.30 | 31.12 | 57.84 | 44.48 |
 | [JVSM](https://openaccess.thecvf.com/content/CVPR2023/papers/Banani_Learning_Visual_Representations_via_Language-Guided_Sampling_CVPR_2023_paper.pdf)<!--\cite{chen2020JVSM}-->         | MobileNet-v1 | 10.70 | 25.90 | 12.00 | 27.10 | 13.00 | 26.90 | 11.90 | 26.63 | 19.27 |
 | [FashionIQ (Dialog Turn 1)](https://openaccess.thecvf.com/content/CVPR2021/html/Wu_Fashion_IQ_A_New_Dataset_Towards_Retrieving_Images_by_Natural_Language_Feedback_CVPR_2021_paper.html)<!--\cite{wu2020fashioniq}--> | EfficientNet-b | 12.45 | 35.21 | 11.05 | 28.99 | 11.24 | 30.45 | 11.58 | 31.55 | 21.57 |
 | [FashionIQ (Dialog Turn 5)](https://openaccess.thecvf.com/content/CVPR2021/html/Wu_Fashion_IQ_A_New_Dataset_Towards_Retrieving_Images_by_Natural_Language_Feedback_CVPR_2021_paper.html)<!--\cite{wu2020fashioniq}--> | EfficientNet-b | 41.35 | 73.63 | 33.91 | 63.42 | 33.52 | 63.85 | 36.26 | 66.97 | 51.61 |
@@ -795,13 +795,13 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 | [Pic2Word](https://openaccess.thecvf.com/content/CVPR2023/papers/Saito_Pic2Word_Mapping_Pictures_to_Words_for_Zero-Shot_Composed_Image_Retrieval_CVPR_2023_paper.pdf) <!--\cite{saito2023pic2word}-->       | CLIP-L | 20.00 | 40.20 | 26.20 | 43.60 | 27.90 | 47.40 | 24.70 | 43.70 | 34.20 |
 | [PLI](https://arxiv.org/abs/2311.07622) <!--\cite{chen2023-PLI}-->                | CLIP-L | 28.11 | 51.12 | 38.63 | 58.51 | 39.42 | 62.68 | 35.39 | 57.44 | 46.42 |
 | [KEDs](https://openaccess.thecvf.com/content/CVPR2024/papers/Suo_Knowledge-Enhanced_Dual-stream_Zero-shot_Composed_Image_Retrieval_CVPR_2024_paper.pdf)<!--\cite{suo2024KEDs}-->                | CLIP-L | 21.70 | 43.80 | 28.90 | 48.00 | 29.90 | 51.90 | 26.80 | 47.90 | 37.35 |
-| [CIReVL](https://openreview.net/forum?id=EDPxCjXzSb)  <!--\cite{karthik2024-CIReVL}-->        | CLIP-L | 24.79 | 44.76 | 29.49 | 47.40 | 31.36 | 53.65 | 28.55 | 48.57 | 38.56 |
+| [CIReVL](https://openreview.net/forum?id=EDPxCjXzSb)         | CLIP-L | 24.79 | 44.76 | 29.49 | 47.40 | 31.36 | 53.65 | 28.55 | 48.57 | 38.56 |
 | [LinCIR](https://openaccess.thecvf.com/content/CVPR2024/papers/Gu_Language-only_Training_of_Zero-shot_Composed_Image_Retrieval_CVPR_2024_paper.pdf)<!--\cite{gu2024LinCIR}-->              | CLIP-L | 20.92 | 42.44 | 29.10 | 46.81 | 28.81 | 50.18 | 26.28 | 46.49 | 36.39 |
 | [MagicLens-L](https://openreview.net/forum?id=Zc22RDtsvP)  <!--\cite{zhang2024magiclens}-->  | CLIP-L | 25.50 | 46.10 | 32.70 | 53.80 | 34.00 | 57.70 | 30.70 | 52.50 | 41.60 |
 | [LinCIR](https://openaccess.thecvf.com/content/CVPR2024/papers/Gu_Language-only_Training_of_Zero-shot_Composed_Image_Retrieval_CVPR_2024_paper.pdf)<!--\cite{gu2024LinCIR}-->              | CLIP-H | 29.80 | 52.11 | 36.90 | 57.75 | 42.07 | 62.52 | 36.26 | 57.46 | 46.86 |
 | [DQU-CIR](http://dx.doi.org/10.1145/3626772.3657727)<!--\cite{Wen_2024-DQU-CIR}-->        | CLIP-H | 51.90 | 74.37 | 53.57 | 73.21 | 58.48 | 79.23 | 54.65 | 75.60 | 65.13 |
 | [LinCIR](https://openaccess.thecvf.com/content/CVPR2024/papers/Gu_Language-only_Training_of_Zero-shot_Composed_Image_Retrieval_CVPR_2024_paper.pdf)<!--\cite{gu2024LinCIR}-->             | CLIP-G | 38.08 | 60.88 | 46.76 | 65.11 | 50.48 | 71.09 | 45.11 | 65.69 | 55.40 |
-| [CIReVL](https://openreview.net/forum?id=EDPxCjXzSb)  <!--\cite{karthik2024-CIReVL}-->       | CLIP-G | 27.07 | 49.53 | 33.71 | 51.42 | 35.80 | 56.14 | 32.19 | 52.36 | 42.28 |
+| [CIReVL](https://openreview.net/forum?id=EDPxCjXzSb)        | CLIP-G | 27.07 | 49.53 | 33.71 | 51.42 | 35.80 | 56.14 | 32.19 | 52.36 | 42.28 |
 | [MagicLens-B](https://openreview.net/forum?id=Zc22RDtsvP)  <!--\cite{zhang2024magiclens}--> | CoCa-B | 29.00 | 48.90 | 36.50 | 55.50 | 40.20 | 61.90 | 35.20 | 55.40 | 45.30 |
 | [MagicLens-L](https://openreview.net/forum?id=Zc22RDtsvP)  <!--\cite{zhang2024magiclens}--> | CoCa-L | 32.30 | 52.70 | 40.50 | 59.20 | 41.40 | 63.00 | 38.00 | 58.20 | 48.10 |
 | [SPN (BLIP4CIR1)](https://arxiv.org/abs/2404.11317)<!--\cite{feng2024data_generation-SPN}--> | BLIP    | 44.52 | 67.13 | 45.68 | 67.96 | 50.74 | 73.79 | 46.98 | 69.63 | 58.30 |
@@ -881,7 +881,7 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 | [MAAF](https://arxiv.org/pdf/2007.00145)<!--\cite{dodds2020MAAF}-->                      | ResNet-50 | 87.80 | -     |
 | [CRR](https://dl.acm.org/doi/abs/10.1145/3503161.3548126)<!--\cite{CRR}-->                                 | ResNet-101 | 85.84 | -     |
 | [JGAN](https://doi.org/10.1145/3394171.3413917)  <!--\cite{JGAN}-->                               | ResNet-101 | 76.07 | 48.85 |
-| [GSCMR [Paper](https://doi.org/10.1109/TIP.2021.3138302) <!--\cite{2022-GSCMR}-->                        | ResNet-101 | 81.81 | 58.74 |
+| [GSCMR](https://doi.org/10.1109/TIP.2021.3138302) <!--\cite{2022-GSCMR}-->                        | ResNet-101 | 81.81 | 58.74 |
 | [TIS](https://dl.acm.org/doi/pdf/10.1145/3478642)<!--\cite{TIS}-->                                 | Inception-v3 | 76.64 | 48.02 |
 | [LBF(big)](http://openaccess.thecvf.com/content_CVPR_2020/html/Hosseinzadeh_Composed_Query_Image_Retrieval_Using_Locally_Bounded_Features_CVPR_2020_paper.html)<!--\cite{hosseinzadeh2020-locally-LBF}-->  | Faster-RCNN | 79.20 | 55.69 |
 | [LBF(small)](http://openaccess.thecvf.com/content_CVPR_2020/html/Hosseinzadeh_Composed_Query_Image_Retrieval_Using_Locally_Bounded_Features_CVPR_2020_paper.html)<!--\cite{hosseinzadeh2020-locally-LBF}--> | Faster-RCNN | 67.26 | 50.31 |
@@ -947,20 +947,20 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 | [Combiner](http://openaccess.thecvf.com/content/CVPR2022/html/Baldrati_Effective_Conditioned_and_Composed_Image_Retrieval_Combining_CLIP-Based_Features_CVPR_2022_paper.html)<!--\cite{baldrati2022combiner}-->                 | CLIP       | 33.59 | 65.35 | 77.35 | 95.21 |
 | [MCEM(\(L_AFCE\))](http://dx.doi.org/10.1109/TIP.2024.3359062)<!--\cite{MCEM}-->                        | CLIP       | 39.80 | 74.24 | 85.71 | 97.23 |
 | [TG-CIR](http://dx.doi.org/10.1145/3581783.3611817)<!--\cite{Wen_2023-TG-CIR}-->                        | CLIP-B     | 45.25 | 78.29 | 87.16 | 97.30 |
-| [CIReVL](https://openreview.net/forum?id=EDPxCjXzSb)  <!--\cite{karthik2024-CIReVL}-->                     | CLIP-B     | 23.94 | 52.51 | 66.00 | 86.95 |
+| [CIReVL](https://openreview.net/forum?id=EDPxCjXzSb)                      | CLIP-B     | 23.94 | 52.51 | 66.00 | 86.95 |
 | [SEARLE-OTI](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf)<!--\cite{Baldrati2023SEARLE}-->                 | CLIP-B     | 24.27 | 53.25 | 66.10 | 88.84 |
 | [SEARLE](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf)<!--\cite{Baldrati2023SEARLE}-->                     | CLIP-B     | 24.00 | 53.42 | 66.82 | 89.78 |
 | [PLI](https://arxiv.org/abs/2311.07622) <!--\cite{chen2023-PLI}-->                              | CLIP-B     | 18.80 | 46.07 | 60.75 | 86.41 |
 | [SEARLE-XL](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf)<!--\cite{Baldrati2023SEARLE}-->                  | CLIP-L     | 24.24 | 52.48 | 66.29 | 88.84 |
 | [SEARLE-XL-OTI](https://openaccess.thecvf.com/content/ICCV2023/papers/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.pdf)<!--\cite{Baldrati2023SEARLE}-->              | CLIP-L     | 24.87 | 52.31 | 66.29 | 88.58 |
-| [CIReVL](https://openreview.net/forum?id=EDPxCjXzSb)  <!--\cite{karthik2024-CIReVL}-->                     | CLIP-L     | 24.55 | 52.31 | 64.92 | 86.34 |
+| [CIReVL](https://openreview.net/forum?id=EDPxCjXzSb)                      | CLIP-L     | 24.55 | 52.31 | 64.92 | 86.34 |
 | [Context-I2W](https://arxiv.org/pdf/2309.16137) <!--\cite{tang2023contexti2w}-->                | CLIP-L     | 25.60 | 55.10 | 68.50 | 89.80 |
 | [Pic2Word](https://openaccess.thecvf.com/content/CVPR2023/papers/Saito_Pic2Word_Mapping_Pictures_to_Words_for_Zero-Shot_Composed_Image_Retrieval_CVPR_2023_paper.pdf) <!--\cite{saito2023pic2word}-->                    | CLIP-L     | 23.90 | 51.70 | 65.30 | 87.80 |
 | [CompoDiff(with SynthTriplets18M)](https://arxiv.org/abs/2303.11916) <!--\cite{gu2024compodiff}--> | CLIP-L | 18.24 | 53.14 | 70.82 | 90.25 |
 | [LinCIR](https://openaccess.thecvf.com/content/CVPR2024/papers/Gu_Language-only_Training_of_Zero-shot_Composed_Image_Retrieval_CVPR_2024_paper.pdf)<!--\cite{gu2024LinCIR}-->                          | CLIP-L    | 25.04 | 53.25 | 66.68 | -     |
 | [PLI](https://arxiv.org/abs/2311.07622) <!--\cite{chen2023-PLI}-->                            | CLIP-L    | 25.52 | 54.58 | 67.59 | 88.70 |
 | [KEDs](https://openaccess.thecvf.com/content/CVPR2024/papers/Suo_Knowledge-Enhanced_Dual-stream_Zero-shot_Composed_Image_Retrieval_CVPR_2024_paper.pdf)<!--\cite{suo2024KEDs}-->                            | CLIP-L    | 26.40 | 54.80 | 67.20 | 89.20 |
-| [CIReVL](https://openreview.net/forum?id=EDPxCjXzSb)  <!--\cite{karthik2024-CIReVL}-->                   | CLIP-G    | 34.65 | 64.29 | 75.06 | 91.66 |
+| [CIReVL](https://openreview.net/forum?id=EDPxCjXzSb)                    | CLIP-G    | 34.65 | 64.29 | 75.06 | 91.66 |
 | [LinCIR](https://openaccess.thecvf.com/content/CVPR2024/papers/Gu_Language-only_Training_of_Zero-shot_Composed_Image_Retrieval_CVPR_2024_paper.pdf)<!--\cite{gu2024LinCIR}-->                          | CLIP-G    | 35.25 | 64.72 | 76.05 | -     |
 | [CompoDiff(with SynthTriplets18M)](https://arxiv.org/abs/2303.11916) <!--\cite{gu2024compodiff}--> | CLIP-G | 26.71 | 55.14 | 74.52 | 92.01 |
 | [LinCIR](https://openaccess.thecvf.com/content/CVPR2024/papers/Gu_Language-only_Training_of_Zero-shot_Composed_Image_Retrieval_CVPR_2024_paper.pdf)<!--\cite{gu2024LinCIR}-->                          | CLIP-H    | 33.83 | 63.52 | 75.35 | -     |
