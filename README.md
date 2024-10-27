@@ -35,17 +35,6 @@ If you find this repository is useful for you, please cite our paper:
 ## Image-text composite editing
 
 ### 2024
-**[ACM SIGIR, 2024] Simple but Effective Raw-Data Level Multimodal Fusion for Composed Image Retrieval**  
-*Haokun Wen, Xuemeng Song, Xiaolin Chen, Yinwei Wei, Liqiang Nie, Tat-Seng Chua*  
-[[Paper](http://dx.doi.org/10.1145/3626772.3657727)]
-
-**[IEEE TIP, 2024] Multimodal Composition Example Mining for Composed Query Image Retrieval**  
-*Gangjian Zhang, Shikun Li, Shikui Wei, Shiming Ge, Na Cai, Yao Zhao*  
-[[Paper](http://dx.doi.org/10.1109/TIP.2024.3359062)]
-
-**[IEEE TMM, 2024] Align and Retrieve: Composition and Decomposition Learning in Image Retrieval With Text Feedback**  
-*Yahui Xu, Yi Bin, Jiwei Wei, Yang Yang, Guoqing Wang, Heng Tao Shen*  
-[[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Anwaar_Compositional_Learning_of_Image-Text_Query_for_Image_Retrieval_WACV_2021_paper.pdf)]
 
 **[WACV, 2024] Text-to-Image Editing by Image Information Removal**  
 *Zhongping Zhang, Jian Zheng, Zhiyuan Fang, Bryan A. Plummer*  
@@ -306,6 +295,18 @@ Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognitio
 **[CVPR, 2024] CompoDiff: Versatile Composed Image Retrieval With Latent Diffusion**  
 *Geonmo Gu, Sanghyuk Chun, Wonjae Kim, HeeJae Jun, Yoohoon Kang, Sangdoo Yun*  
 [[Paper](https://arxiv.org/abs/2303.11916)] 
+
+**[ACM SIGIR, 2024] Simple but Effective Raw-Data Level Multimodal Fusion for Composed Image Retrieval**  
+*Haokun Wen, Xuemeng Song, Xiaolin Chen, Yinwei Wei, Liqiang Nie, Tat-Seng Chua*  
+[[Paper](http://dx.doi.org/10.1145/3626772.3657727)]
+
+**[IEEE TIP, 2024] Multimodal Composition Example Mining for Composed Query Image Retrieval**  
+*Gangjian Zhang, Shikun Li, Shikui Wei, Shiming Ge, Na Cai, Yao Zhao*  
+[[Paper](http://dx.doi.org/10.1109/TIP.2024.3359062)]
+
+**[IEEE TMM, 2024] Align and Retrieve: Composition and Decomposition Learning in Image Retrieval With Text Feedback**  
+*Yahui Xu, Yi Bin, Jiwei Wei, Yang Yang, Guoqing Wang, Heng Tao Shen*  
+[[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Anwaar_Compositional_Learning_of_Image-Text_Query_for_Image_Retrieval_WACV_2021_paper.pdf)]
 
 
 ### 2023
