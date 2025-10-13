@@ -2,17 +2,20 @@
 
 :fire::fire: This is a collection of awesome articles about multimodal composite editing and retrieval:fire::fire:
 
+[NEWS.20250716] **The related survey [paper](https://link.springer.com/article/10.1007/s44267-025-00086-x) has been published in Visual Intelligence.**
 [NEWS.20240909] **The related survey [paper](http://arxiv.org/abs/2409.05405) has been released.**
 
 If you find this repository is useful for you, please cite our paper:
 ```
-@misc{li2024survey,
-      title={A Survey of Multimodal Composite Editing and Retrieval}, 
-      author={Suyan Li, Fuxiang Huang, and Lei Zhang},
-      year={2024},
-      eprint={2409.05405},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{li2025survey,
+  title={A survey of multimodal composite editing and retrieval},
+  author={Li, Suyan and Huang, Fuxiang and Zhang, Lei},
+  journal={Visual Intelligence},
+  volume={3},
+  number={1},
+  pages={15},
+  year={2025},
+  publisher={Springer}
 }
 ```
 
