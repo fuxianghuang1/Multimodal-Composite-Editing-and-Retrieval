@@ -3,6 +3,7 @@
 :fire::fire: This is a collection of awesome articles about multimodal composite editing and retrieval:fire::fire:
 
 [NEWS.20250716] **The related survey [paper](https://link.springer.com/article/10.1007/s44267-025-00086-x) has been published in Visual Intelligence.**
+
 [NEWS.20240909] **The related survey [paper](http://arxiv.org/abs/2409.05405) has been released.**
 
 If you find this repository is useful for you, please cite our paper:
